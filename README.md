@@ -4,7 +4,7 @@ A comprehensive list of collective nouns, categorized into three main sections: 
 
 ## Live Demo
 
-Explore the live demo of the project at [this link](https://elix-stack.github.io/collective-noun/#people).
+Explore the live demo of the project at [this link](https://elix-stack.github.io/collective-noun/).
 
 ## Features
 
