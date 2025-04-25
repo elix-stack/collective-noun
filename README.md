@@ -24,6 +24,6 @@ If you have any questions or would like to get in touch, feel free to reach out 
 
 This project is open for contributions! Feel free to open an issue or submit a pull request for any suggestions, improvements, or additional collective nouns.
 
-## License
+## 📝 License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute the code as long as you provide proper attribution to the original author.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You can also view the [LICENSE](LICENSE) file in this repository. You are free to use, modify, and distribute the code as long as you provide proper attribution to the original author.
