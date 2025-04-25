@@ -14,7 +14,7 @@ Explore the live demo of the project at [this link](https://elix-stack.github.io
 
 ## How to Use
 
-Simply visit the [live demo](https://elix-stack.github.io/collective-noun/#people) to view the list of collective nouns categorized into People, Animals, and Things. You can easily navigate through these sections, search for specific terms, and learn more about collective nouns.
+Simply visit the [live demo](https://elix-stack.github.io/collective-noun/) to view the list of collective nouns categorized into People, Animals, and Things. You can easily navigate through these sections, search for specific terms, and learn more about collective nouns.
 
 ## Contact
 
